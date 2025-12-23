@@ -4,4 +4,4 @@ const items = [1, [2, [3, [4]]]];
 
 const newItems = _.flattenDeep(items);
 
-console.log(newItems, "test2");
+console.log(newItems, "test3");
